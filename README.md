@@ -1,4 +1,4 @@
-# Trilha Python DIO
+# Python Fundamentals
 
 #### Formação Python Fundamentos
 
