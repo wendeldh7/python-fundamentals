@@ -17,12 +17,12 @@ A formação é dividida em módulos, cada um com foco em uma etapa essencial do
 ### ✅ Módulo 1: Introdução ao Python
 - O que é Python e por que aprender essa linguagem
 - Instalação do Python
-- Configuração do ambiente de desenvolvimento (VS Code, Jupyter etc.)
+- Configuração do ambiente de desenvolvimento (VS Code, Python 3 etc.)
 - Primeiro programa em Python
 
 ### ✅ Módulo 2: Tipos de Dados e Variáveis
 - Tipos primitivos: inteiros, floats, strings, booleanos
-- Conversão de tipos (casting)
+- Conversão de tipos
 - Boas práticas na nomeação de variáveis
 
 ### ✅ Módulo 3: Operadores e Expressões
@@ -45,7 +45,6 @@ A formação é dividida em módulos, cada um com foco em uma etapa essencial do
 - Criando e reutilizando funções
 - Parâmetros e retorno
 - Escopo de variáveis
-- Funções lambda
 
 ### ✅ Módulo 7: Programação Orientada a Objetos (POO)
 - Conceitos de classes e objetos
