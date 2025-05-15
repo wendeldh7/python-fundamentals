@@ -8,8 +8,6 @@ Python é uma das linguagens mais populares do mundo, usada em áreas como desen
 
 Neste curso, você vai aprender de forma progressiva — começando pelos conceitos mais básicos até chegar a tópicos mais avançados — com foco total na prática e na compreensão real do que está sendo feito.
 
----
-
 ## 📚 Sumário
 
 - [🔍 O que você vai aprender](#-o-que-você-vai-aprender)
@@ -21,8 +19,6 @@ Neste curso, você vai aprender de forma progressiva — começando pelos concei
 - [🚀 Diferenciais da Formação](#-diferenciais-da-formação)
 - [🏁 Comece agora](#-comece-agora)
 - [📬 Contato e comunidade](#-contato-e-comunidade)
-
----
 
 ## 🔍 O que você vai aprender
 
@@ -77,8 +73,6 @@ A formação é dividida em módulos, cada um com foco em uma etapa essencial do
 - Tratamento de exceções
 - Módulos e pacotes
 
----
-
 ## 💡 Como você vai aprender
 
 A metodologia do curso é baseada em **aprendizagem ativa**. Ou seja, você aprende fazendo:
@@ -88,14 +82,10 @@ A metodologia do curso é baseada em **aprendizagem ativa**. Ou seja, você apre
 - 💼 Projetos reais para montar seu portfólio  
 - 🔁 Atividades que simulam situações reais do mercado  
 
----
-
 ## 🧠 Pré-requisitos
 
 Nenhuma experiência anterior em programação é necessária.  
 Basta ter conhecimentos básicos de informática e vontade de aprender!
-
----
 
 ## 🧰 Recursos disponíveis
 
@@ -106,8 +96,6 @@ Durante o curso, você terá acesso a:
 - 📜 Certificados de conclusão por módulo
 - 💡 Sugestões de projetos para praticar após o curso
 
----
-
 ## 🎯 Ao final da formação, você será capaz de:
 
 - Desenvolver programas completos com Python  
@@ -115,8 +103,6 @@ Durante o curso, você terá acesso a:
 - Organizar seu código com conceitos de POO  
 - Trabalhar com arquivos e dados externos  
 - Usar recursos avançados da linguagem com segurança  
-
----
 
 ## 📣 Para quem é este curso?
 
@@ -127,8 +113,6 @@ Este curso é ideal para:
 - 👨‍💼 Profissionais que desejam aplicar Python no trabalho  
 - 🎓 Estudantes buscando uma base sólida  
 
----
-
 ## 🚀 Diferenciais da Formação
 
 - ✅ Aprendizado 100% prático e progressivo  
@@ -136,16 +120,12 @@ Este curso é ideal para:
 - 🧑‍🤝‍🧑 Suporte da comunidade e mentores  
 - 🎓 Certificados por módulo concluído  
 
----
-
 ## 🏁 Comece agora
 
 Se você chegou até aqui, é porque está comprometido com seu aprendizado. E posso garantir: Python é uma excelente escolha.
 
 👉 **[Clique aqui para iniciar a Formação Python Fundamentos](https://www.dio.me/curso-python-do-zero)**  
 💻 **Bora codar!** 🚀
-
----
 
 ## 📬 Contato e comunidade
 
