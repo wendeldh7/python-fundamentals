@@ -1,4 +1,4 @@
-# Formação Python Fundamentos 🐍
+# 🐍 Formação Python Fundamentos
 
 Olá! 👋
 
@@ -7,6 +7,20 @@ Seja muito bem-vindo(a) à **Formação Python Fundamentos**. Este README foi cr
 Python é uma das linguagens mais populares do mundo, usada em áreas como desenvolvimento web, ciência de dados, automação e inteligência artificial.
 
 Neste curso, você vai aprender de forma progressiva — começando pelos conceitos mais básicos até chegar a tópicos mais avançados — com foco total na prática e na compreensão real do que está sendo feito.
+
+---
+
+## 📚 Sumário
+
+- [🔍 O que você vai aprender](#-o-que-você-vai-aprender)
+- [💡 Como você vai aprender](#-como-você-vai-aprender)
+- [🧠 Pré-requisitos](#-pré-requisitos)
+- [🧰 Recursos disponíveis](#-recursos-disponíveis)
+- [🎯 Ao final da formação, você será capaz de:](#-ao-final-da-formação-você-será-capaz-de)
+- [📣 Para quem é este curso?](#-para-quem-é-este-curso)
+- [🚀 Diferenciais da Formação](#-diferenciais-da-formação)
+- [🏁 Comece agora](#-comece-agora)
+- [📬 Contato e comunidade](#-contato-e-comunidade)
 
 ---
 
@@ -55,7 +69,7 @@ A formação é dividida em módulos, cada um com foco em uma etapa essencial do
 ### ✅ Módulo 8: Manipulação de Arquivos
 - Leitura e escrita de arquivos `.txt` e `.csv`
 - Abertura e fechamento seguros de arquivos
-- Casos práticos de leitura de dados
+- Casos práticos de leitura e escrita de dados
 
 ### ✅ Módulo 9: Conceitos Avançados
 - Iteradores e geradores
@@ -69,10 +83,10 @@ A formação é dividida em módulos, cada um com foco em uma etapa essencial do
 
 A metodologia do curso é baseada em **aprendizagem ativa**. Ou seja, você aprende fazendo:
 
-- Vídeo-aulas objetivas e didáticas
-- Desafios e exercícios práticos em todos os módulos
-- Projetos reais para montar seu portfólio
-- Atividades que simulam situações reais do mercado
+- 🎥 Vídeo-aulas objetivas e didáticas  
+- 🧪 Desafios e exercícios práticos em todos os módulos  
+- 💼 Projetos reais para montar seu portfólio  
+- 🔁 Atividades que simulam situações reais do mercado  
 
 ---
 
@@ -87,20 +101,20 @@ Basta ter conhecimentos básicos de informática e vontade de aprender!
 
 Durante o curso, você terá acesso a:
 
-- Material complementar para download (cheatsheets, slides, códigos)
-- Espaço para dúvidas e interação com a comunidade
-- Certificados de conclusão por módulo
-- Sugestões de projetos para praticar após o curso
+- 📄 Material complementar para download (cheatsheets, slides, códigos)
+- 🙋 Espaço para dúvidas e interação com a comunidade
+- 📜 Certificados de conclusão por módulo
+- 💡 Sugestões de projetos para praticar após o curso
 
 ---
 
 ## 🎯 Ao final da formação, você será capaz de:
 
-- Desenvolver programas completos com Python
-- Automatizar tarefas do dia a dia
-- Organizar seu código com conceitos de POO
-- Trabalhar com arquivos e dados externos
-- Usar recursos avançados da linguagem com segurança
+- Desenvolver programas completos com Python  
+- Automatizar tarefas do dia a dia  
+- Organizar seu código com conceitos de POO  
+- Trabalhar com arquivos e dados externos  
+- Usar recursos avançados da linguagem com segurança  
 
 ---
 
@@ -108,10 +122,19 @@ Durante o curso, você terá acesso a:
 
 Este curso é ideal para:
 
-- Iniciantes que nunca programaram antes
-- Pessoas migrando para a área de tecnologia
-- Profissionais que desejam aplicar Python no trabalho
-- Estudantes buscando uma base sólida
+- 🆕 Iniciantes que nunca programaram antes  
+- 🔄 Pessoas migrando para a área de tecnologia  
+- 👨‍💼 Profissionais que desejam aplicar Python no trabalho  
+- 🎓 Estudantes buscando uma base sólida  
+
+---
+
+## 🚀 Diferenciais da Formação
+
+- ✅ Aprendizado 100% prático e progressivo  
+- 💼 Projetos reais com foco em portfólio  
+- 🧑‍🤝‍🧑 Suporte da comunidade e mentores  
+- 🎓 Certificados por módulo concluído  
 
 ---
 
@@ -119,8 +142,8 @@ Este curso é ideal para:
 
 Se você chegou até aqui, é porque está comprometido com seu aprendizado. E posso garantir: Python é uma excelente escolha.
 
-💻 **Bora codar!** 🚀  
-📌 [Iniciar a Formação Python Fundamentos](https://www.dio.me/curso-python-do-zero)
+👉 **[Clique aqui para iniciar a Formação Python Fundamentos](https://www.dio.me/curso-python-do-zero)**  
+💻 **Bora codar!** 🚀
 
 ---
 
@@ -128,5 +151,5 @@ Se você chegou até aqui, é porque está comprometido com seu aprendizado. E p
 
 Tem dúvidas, sugestões ou quer compartilhar sua experiência? Participe da comunidade:
 
-- 🌐 [Site da Comunidade DIO](https://www.dio.me/)
-- 💬 [Servidor no Discord](https://discord.com/invite/gFKWUdTkaj)
+- 🌐 [Site da Comunidade DIO](https://www.dio.me/)  
+- 💬 [Servidor no Discord](https://discord.com/invite/gFKWUdTkaj)  
