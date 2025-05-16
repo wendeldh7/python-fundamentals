@@ -30,21 +30,16 @@ class Pessoa:
         self.nome = nome
         self.idade = idade
 
-#TODO: Crie um método para retornar as informações formatas com Nome e Idade:    
-    
-def informacoes(self):
-    return f"Nome: {self.nome}, Idade: {self.idade}"
+    # Método para retornar as informações formatadas
+    def informacoes(self):
+        return f"Nome: {self.nome}, Idade: {self.idade}"
 
 # Entrada do usuário
-entrada = input().split()
+nome = input()
+idade = int(input())
 
-nome = ' '.join(entrada[:-1])
-idade = int(entrada[-1])
-
-# TODO: Crie uma instância da pessoa:
-
+# Criando uma instância da pessoa
 pessoa = Pessoa(nome, idade)
 
-#TODO: Chame o método para retornar as informações formatadas e imprima o resultado:
-
+# Chamando o método e imprimindo o resultado
 print(pessoa.informacoes())
