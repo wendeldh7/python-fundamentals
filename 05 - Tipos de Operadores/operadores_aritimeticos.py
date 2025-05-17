@@ -1,25 +1,25 @@
-# Addition
+# Adição
 print(10 + 5)
 
-# Subtraction
+# Subtração
 print(10 - 5)
 
-# Multiplication
+# Multiplicação
 print(10 * 5)
 
-# Division
+# Divisão
 print(10 / 5)
 
-# Integer division
+# Divisão inteira
 print(10 // 3)
 
-# Modulo (remainder of the division)
+# Módulo (resto da divisão)
 print(10 % 3)
 
-# Exponentiation (power)
+# Exponenciação (potência)
 print(10 ** 3)
 
-# More examples
+# Mais exemplos
 
 print(10 - 5 * 2)
 
@@ -31,7 +31,7 @@ print(10 ** (2 * 2))
 
 print(10 / 2 * 4)
 
-# Exercise to practice the concepts
+# Exercício para praticar os conceitos
 
 product_1 = 20
 product_2 = 10
