@@ -18,23 +18,23 @@
 
 # Exemplo usando o laço "for"
 
-text = input("Digite um texto: ")
+texto = input("Digite um texto: ")
 AEIOU = "AEIOU"
 
-for letter in text:
-    if letter.upper() in AEIOU:
-        print(letter, end=" ")
+for letra in texto:
+    if letra.upper() in AEIOU:
+        print(letra, end=" ")
 
 print()  # Imprime uma nova linha após o laço
 
 # Estrutura for/else
 
-text = input("Digite um texto: ")
+texto = input("Digite um texto: ")
 AEIOU = "AEIOU"
 
-for letter in text:
-    if letter.upper() in AEIOU:
-        print(letter, end=" ")
+for letra in texto:
+    if letra.upper() in AEIOU:
+        print(letra, end=" ")
 else:
     print()  # Imprime uma nova linha após o laço
 
@@ -49,33 +49,37 @@ else:
 
 # Exemplo usando a função range()
 
-list(range(4))  # Gera uma lista com os números de 0 a 3
-# >>> [0, 1, 2, 3]
+print(list(range(4)))  # Gera uma lista com os números de 0 a 3
+# Saída: [0, 1, 2, 3]
 
 # Usando range() em um laço "for"
 
-for number in range(11):
-    print(number, end=" ")
-# >>> 0 1 2 3 4 5 6 7 8 9 10
+for numero in range(11):
+    print(numero, end=" ")
+# Saída: 0 1 2 3 4 5 6 7 8 9 10
+
+print()  # Quebra de linha
 
 # Exibindo a tabuada do 5
 
-for number in range(0, 51, 5):
-    print(number, end=" ")
-# >>> 0 5 10 15 20 25 30 35 40 45 50
+for numero in range(0, 51, 5):
+    print(numero, end=" ")
+# Saída: 0 5 10 15 20 25 30 35 40 45 50
+
+print()  # Quebra de linha
 
 # Exercício de prática
 
-text = input("Digite um texto: ")
+texto = input("Digite um texto: ")
 AEIOU = "AEIOU"
 
 # Exemplo usando um iterável
-for letter in text:
-    if letter.upper() in AEIOU:
-        print(letter, end="")
+for letra in texto:
+    if letra.upper() in AEIOU:
+        print(letra, end="")
 else:
     print()  # Adiciona uma quebra de linha ao final
 
 # Exemplo usando a função embutida range
-for number in range(0, 51, 5):
-    print(number, end=" ")
+for numero in range(0, 51, 5):
+    print(numero, end=" ")

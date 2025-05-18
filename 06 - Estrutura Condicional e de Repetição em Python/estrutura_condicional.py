@@ -12,13 +12,13 @@
 
 # Exemplo:
 
-balance = 2000.0
-withdrawal = float(input("Digite o valor do saque: "))
+saldo = 2000.0
+saque = float(input("Digite o valor do saque: "))
 
-if balance >= withdrawal:
+if saldo >= saque:
     print("Saque realizado com sucesso!")
 
-if balance < withdrawal:
+if saldo < saque:
     print("Saldo insuficiente para realizar o saque!")
 
 # Instrução If-Else
@@ -27,10 +27,10 @@ if balance < withdrawal:
 
 # Exemplo:
 
-balance = 2000.0
-withdrawal = float(input("Digite o valor do saque: "))
+saldo = 2000.0
+saque = float(input("Digite o valor do saque: "))
 
-if balance >= withdrawal:
+if saldo >= saque:
     print("Saque realizado com sucesso!")
 
 else:
@@ -47,29 +47,29 @@ else:
 
 import sys
 
-option = int(input("Digite sua opção: [1] Sacar \n[2] Extrato: "))
+opcao = int(input("Digite sua opção: [1] Sacar \n[2] Extrato: "))
 
-if option == 1:
-    amount = float(input("Digite o valor do saque: "))
+if opcao == 1:
+    valor = float(input("Digite o valor do saque: "))
+    print(f"Você solicitou o saque de R$ {valor:.2f}.")
 
-elif option == 2:
+elif opcao == 2:
     print("Exibindo extrato da conta...")
 
 else:
     sys.exit("Opção inválida!")  # Você também pode usar: raise SystemExit("Opção inválida!")
-    # Se usar sys.exit, é necessário importar o módulo sys.
 
 # Exercício de Prática
 
-LEGAL_AGE = 18
-SPECIAL_AGE = 17
+IDADE_LEGAL = 18
+IDADE_ESPECIAL = 17
 
-age = int(input("Digite sua idade: "))
+idade = int(input("Digite sua idade: "))
 
-if age >= LEGAL_AGE:
+if idade >= IDADE_LEGAL:
     print("Você tem idade suficiente para tirar a carteira de motorista.")
 
-elif age == SPECIAL_AGE:
+elif idade == IDADE_ESPECIAL:
     print("Você pode fazer aulas teóricas, mas não pode dirigir nas aulas práticas.")
 
 else:

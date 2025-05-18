@@ -1,27 +1,13 @@
-# Instrução While
+# Instrução While usando variável 'opcao'
 
-# A instrução while é usada para executar um bloco de código enquanto uma condição for verdadeira.
+opcao = -1  # Inicializa a opção com valor diferente de 0 para entrar no loop
 
-option = -1
+while opcao != 0:
+    opcao = int(input("[1] Sacar \n[2] Extrato \n[0] Sair \n: "))
 
-while option != 0:
-    option = int(input("[1] Sacar \n[2] Extrato \n[0] Sair \n: "))
-
-    if option == 1:
+    if opcao == 1:
         print("Sacando...")
-    elif option == 2:
-        print("Exibindo extrato da conta...")
-
-# Estrutura While/Else
-
-option = -1
-
-while option != 0:
-    option = int(input("[1] Sacar \n[2] Extrato \n[0] Sair \n: "))
-
-    if option == 1:
-        print("Sacando...")
-    elif option == 2:
+    elif opcao == 2:
         print("Exibindo extrato da conta...")
 
 else:

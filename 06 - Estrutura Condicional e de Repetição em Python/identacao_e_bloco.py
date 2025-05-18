@@ -15,7 +15,7 @@
 # Bloco de Código
 
 # Um bloco de código é um conjunto de instruções que são executadas juntas.
-# Em Python, um bloco é definido por uma linha que termina com dois-pontos (:) 
+# Em Python, um bloco é definido por uma linha que termina com dois-pontos (:)
 # e as linhas subsequentes com indentação.
 
 # Por exemplo, o código a seguir define um bloco que imprime "Olá, mundo!" se a variável x for maior que 10:
@@ -26,28 +26,26 @@
 # Isso significa que, se você tiver um bloco dentro de outro, o bloco interno deve ser indentado com 4 espaços a mais que o externo.
 
 # Exemplo:
-
-def withdraw(self, amount: float) -> None:  # Início do bloco do método
-    if self.balance >= amount:              # Início do bloco do if
-        self.balance -= amount
+def sacar(self, valor: float) -> None:  # Início do bloco do método
+    if self.saldo >= valor:              # Início do bloco do if
+        self.saldo -= valor
     # Fim do bloco do if
 # Fim do bloco do método
 
 # Exercício de Prática
+def sacar(valor):
+    saldo = 500
 
-def withdraw(amount):
-    balance = 500
-
-    if balance >= amount:
+    if saldo >= valor:
         print("Valor sacado!")
         print("Por favor, retire seu dinheiro no caixa eletrônico.")
 
     print("Obrigado por ser nosso cliente. Tenha um ótimo dia!")
 
 
-def deposit(amount):
-    balance = 500
-    balance += amount
+def depositar(valor):
+    saldo = 500
+    saldo += valor
 
 
-withdraw(1000)
+sacar(1000)

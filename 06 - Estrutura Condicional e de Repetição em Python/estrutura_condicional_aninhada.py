@@ -5,51 +5,51 @@
 
 # Exemplo:
 
-regular_account = True
-student_account = False
-overdraft_limit = 450
-balance = 2000
-withdrawal = 1500
+conta_regular = True
+conta_estudante = False
+limite_cheque_especial = 450
+saldo = 2000
+saque = 1500
 
-if regular_account:
-    if balance >= withdrawal:
+if conta_regular:
+    if saldo >= saque:
         print("Saque realizado com sucesso!")
-    elif withdrawal <= (balance + overdraft_limit):
+    elif saque <= (saldo + limite_cheque_especial):
         print("Saque realizado utilizando o cheque especial!")
         
-elif student_account:
-    if balance >= withdrawal:
+elif conta_estudante:
+    if saldo >= saque:
         print("Saque realizado com sucesso!")
     else:
         print("Saldo insuficiente para realizar o saque!")
 
 # Exercício de Prática
 
-regular_account = False
-student_account = False
-special_account = True
+conta_regular = False
+conta_estudante = False
+conta_especial = True
 
-balance = 2000
-withdrawal = 1500
-overdraft_limit = 450
+saldo = 2000
+saque = 1500
+limite_cheque_especial = 450
 
-if regular_account:
+if conta_regular:
 
-    if balance >= withdrawal:
+    if saldo >= saque:
         print("Saque realizado com sucesso!")
-    elif withdrawal <= (balance + overdraft_limit):
+    elif saque <= (saldo + limite_cheque_especial):
         print("Saque realizado utilizando o cheque especial!")
     else:
         print("Não foi possível realizar o saque, saldo insuficiente!")
 
-elif student_account:
+elif conta_estudante:
 
-    if balance >= withdrawal:
+    if saldo >= saque:
         print("Saque realizado com sucesso!")
     else:
         print("Saldo insuficiente!")
 
-elif special_account:
+elif conta_especial:
     print("Conta especial selecionada!")
 
 else:

@@ -5,18 +5,18 @@
 
 # Exemplo:
 
-balance = 2000
-withdraw = 1500
+saldo = 2000
+saque = 1500
 
-status = "Sucesso" if balance >= withdraw else "Falha"
+status = "Sucesso" if saldo >= saque else "Falha"
 
 print(f"{status} ao realizar o saque!")
 
 # Exercício para praticar o conceito
 
-balance = 2000
-withdraw = 2500
+saldo = 2000
+saque = 2500
 
-status = "Sucesso" if balance >= withdraw else "Falha"
+status = "Sucesso" if saldo >= saque else "Falha"
 
 print(f"{status} ao realizar o saque!")
