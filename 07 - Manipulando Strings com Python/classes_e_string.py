@@ -6,36 +6,36 @@
 # As strings são imutáveis, ou seja, uma vez criadas, não podem ser alteradas.
 
 # Maiúsculas, minúsculas e título
-course = "pYtHon"
+curso = "pYtHon"
 
-print(course.upper())  # Converte a string para letras maiúsculas
+print(curso.upper())  # Converte a string para letras maiúsculas
 # >>> 'PYTHON'
 
-print(course.lower())  # Converte a string para letras minúsculas
+print(curso.lower())  # Converte a string para letras minúsculas
 # >>> 'python'
 
-print(course.title())  # Converte a string para formato de título (primeira letra de cada palavra em maiúscula)
+print(curso.title())  # Converte a string para formato de título (primeira letra de cada palavra em maiúscula)
 # >>> 'Python'
 
 # Removendo espaços em branco
 
-course = "   Python   "
+curso = "   Python   "
 
-print(course.strip())  # Remove os espaços em branco do início e do final da string
+print(curso.strip())  # Remove os espaços em branco do início e do final da string
 # >>> 'Python'
 
-print(course.lstrip())  # Remove os espaços em branco do início (lado esquerdo) da string
+print(curso.lstrip())  # Remove os espaços em branco do início (lado esquerdo) da string
 # >>> 'Python   '
 
-print(course.rstrip())  # Remove os espaços em branco do final (lado direito) da string
+print(curso.rstrip())  # Remove os espaços em branco do final (lado direito) da string
 # >>> '   Python'
 
 # Juntando e centralizando strings
 
-course = "Python"
+curso = "Python"
 
-print(course.center(20, "#"))  # Centraliza a string em um campo de 20 caracteres, preenchendo com '#'
+print(curso.center(20, "#"))  # Centraliza a string em um campo de 20 caracteres, preenchendo com '#'
 # >>> '######Python######'
 
-print(".".join(course))  # Junta os caracteres da string inserindo '.' entre eles
+print(".".join(curso))  # Junta os caracteres da string inserindo '.' entre eles
 # >>> 'P.y.t.h.o.n'
