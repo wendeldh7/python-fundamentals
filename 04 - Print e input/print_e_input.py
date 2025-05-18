@@ -1,3 +1,5 @@
+# Imprime no console a mensagem "Digite seu nome: " e espera o usuário digitar seu nome
+
 name = input("Digite seu nome: ")
 age = input("Digite sua idade: ")
 
