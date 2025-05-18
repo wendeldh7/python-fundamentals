@@ -28,7 +28,7 @@ print(sobrenome, idade)
 
 # Exemplo de nomenclatura snake_case e constante em maiúsculas
 
-daily_withdrawal_limit = 1000
+limite_saque_diario = 1000
 
 BRAZILIAN_STATES = ["RN", "SP", "RJ", "MG", "ES"]
 
