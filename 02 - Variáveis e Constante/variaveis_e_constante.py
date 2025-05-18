@@ -1,19 +1,19 @@
 # Declaração e impressão com f-strings
 
-age = 28
-name = "Wendel"
-print(f'My name is {name} and I am {age} years old.')
+idade = 28
+nome = "Wendel"
+print(f'Meu nome é {nome} e eu tenho {idade} anos.')
 
 # Atribuição múltipla usando tuplas
 
-age, name = (28, "Wendel")
-print(f'My name is {name} and I am {age} years old.')
+idade, nome = (28, "Wendel")
+print(f'Meu nome é {nome} e eu tenho {idade} anos.')
 
-surname = 'Gomes'
-age = 18
+sobrenome = 'Gomes'
+idade = 18
 
-surname, age = "Wendel", 28
-print(surname, age)
+sobrenome, idade = "Wendel", 28
+print(sobrenome, idade)
 
 # Boas práticas para nomes de variáveis:
 
