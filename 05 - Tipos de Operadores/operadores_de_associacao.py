@@ -1,23 +1,23 @@
 # Operadores de Associação
 
-course = "Python course"
-fruits = ["orange", "grape", "lemon"]
-withdrawals = [1500, 100]
+curso = "Curso de Python"
+frutas = ["laranja", "uva", "limão"]
+saques = [1500, 100]
 
-"Python" in course  # True
-# Verifica se a string "Python" está contida na variável course
+"Python" in curso  # True
+# Verifica se a string "Python" está contida na variável curso
 
-"apple" not in fruits  # True
-# Verifica se a string "apple" NÃO está contida na lista fruits
+"maçã" not in frutas  # True
+# Verifica se a string "maçã" NÃO está contida na lista frutas
 
-200 in withdrawals  # False
-# Verifica se o valor 200 está contido na lista withdrawals
+200 in saques  # False
+# Verifica se o valor 200 está contido na lista saques
 
 # Exercício para praticar os conceitos
 
-fruits = ["lemon", "grape"]
-course = "Python course"
+frutas = ["limão", "uva"]
+curso = "Curso de Python"
 
-print("orange" not in fruits)  # True
-print("lemon" in fruits)       # True
-print("Python" in course)      # True
+print("laranja" not in frutas)  # True
+print("limão" in frutas)        # True
+print("Python" in curso)        # True
